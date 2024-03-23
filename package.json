@@ -1,6 +1,6 @@
 {
-  "name": "f2z1-cli-number-guessing",
-  "version": "2.0.3",
+  "name": "@faizee12/cli-number-guessing",
+  "version": "2.0.4",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "access": "public"
   },
   "bin": {
-    "f2z1-cli-number-guessing": "index.js"
+    "cli-number-guessing": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
