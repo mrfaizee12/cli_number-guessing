@@ -1,6 +1,6 @@
 {
   "name": "f2z1-cli-number-guessing",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
